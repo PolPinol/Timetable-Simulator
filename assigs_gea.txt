@@ -1,0 +1,21 @@
+# Assignatura del grau d'estadística aplicada
+# Especificació de les setmanes del curs
+16                  # Nombe de setmanes
+12/2 19/2 26/2 5/3  # dl setmanes 1,2,3,4
+12/3 19/3 2/4  9/4  # dl setmanes 5,6,7,8
+16/4 23/4 30/4 7/5  # dl setmanes 9,10,11,12
+14/5 21/5 28/5 4/6  # dl setmanes 13,14,15,16
+
+# Especificació de dies no lectius 
+9                             # Nombre de dies no lectius
+26/3 27/3 28/3 29/3 30/3 2/4  # Setmana Santa
+30/4 1/5                      # 1 de maig i pont corresponent
+21/5                          # festiu
+
+# Especificació d'assignatures
+
+assigEDIA
+   Teoria     grup1 dc 15-19 aulaC3/028  setm1
+   Teoria     grup1 dc 15-16 aulaC3/028  setm2-14
+#   Practiques grup1 dc 16-19 aulaaulainf setm2-14
+   Practiques grup2 dc 16-19 aulaaulainf setm2-14

@@ -1,0 +1,36 @@
+# Assignatures del grau de matemàtiques
+# Especificació de les setmanes del curs
+16                  # Nombe de setmanes
+12/2 19/2 26/2 5/3  # dl setmanes 1,2,3,4
+12/3 19/3 2/4  9/4  # dl setmanes 5,6,7,8
+16/4 23/4 30/4 7/5  # dl setmanes 9,10,11,12
+14/5 21/5 28/5 4/6  # dl setmanes 13,14,15,16
+
+# Especificació de dies no lectius 
+14                            # Nombre de dies no lectius
+26/3 27/3 28/3 29/3 30/3 2/4  # Setmana Santa
+30/4 1/5                      # 1 de maig i pont corresponent
+21/5                          # festiu
+3/4 4/4 5/4 6/4 9/4           # parcials
+
+# Especificació d'assignatures
+
+assigEIM
+#   Teoria    grup1 dj 12-14 aulaC1/013 setm1-5 setm10-14
+   Teoria    grup2 dj 12-14 aulaC5/032 setm1-5 setm10-14
+   Seminari  grupA dl 15-17 aulaC1/136 setm1-6 setm9-10 setm12-13 setm15
+#   Seminari  grupB dl 11-13 aulaC1/136 setm1-6 setm9-10 setm12-13 setm15
+#   Seminari  grupC dm 11-13 aulaC1/136 setm1-6 setm9-10 setm12-13 setm15
+   Seminari  grupD dj 10-12 aulaC1/136 setm1-6 setm9-10 setm12-13 setm15
+
+assigINEDP
+   Teoria    grup1 dc 10-12 aulaC5/028 setm1-14
+   Problemes grup1 dc 10-12 aulaC5/028 setm15
+   Problemes grup1 dc 10-11 aulaC5/028 setm16
+   Teoria    grup1 dv 10-12 aulaC5/028 4/5
+   Teoria    grup1 dv 11-12 aulaC5/028 16/2 23/2
+   Problemes grup1 dv 11-12 aulaC5/028 setm3-4 setm6 setm10 setm13-14 setm16
+   Seminari  grup1 dv 10-12 aulaPC1A   16/3
+   Seminari  grup1 dv 10-12 aulaPC2    13/4
+   Seminari  grup1 dv 10-12 aulaC1/136 20/4 1/6
+   Seminari  grup1 dv 10-12 aulaPC5    11/5
